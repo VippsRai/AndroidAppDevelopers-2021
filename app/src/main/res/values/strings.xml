@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">InternshipProgram</string>
+    <string name="app_name">DigiLocker</string>
+    <string name="digilocker_icon">App Icon</string>
+    <string name="notification_icon">Notification Icon</string>
+    <string name="home">Home</string>
+    <string name="browse">Browse</string>
+    <string name="account">Account</string>
+    <string name="string1">Welcome, Abhisek!</string>
+    <string name="string2">DigiLocker \'Issued Documents\' are at par with original Documents as par IT Act.</string>
+    <string name="string3">Your Issued Documents</string>
+    <string name="button1">Aadhaar Card</string>
+    <string name="string4">Also get these</string>
+    <string name="button2">Driving License</string>
+    <string name="button3">PAN Card</string>
+    <string name="button4">Vehicle Registration</string>
+    <string name="string5">Where can I use DigiLocker?</string>
+    <string name="toast_msg">PAN Card servers are not responding at the moment. Please try again later.</string>
 </resources>
