@@ -1,6 +1,12 @@
 package com.android.internshipprogram;
 
+import android.os.Bundle;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
+import android.widget.TextView;
+
 import androidx.appcompat.app.AppCompatActivity;
+
 
 import android.graphics.Color;
 import android.os.Bundle;
@@ -11,6 +17,9 @@ import android.widget.Toast;
 
 import androidx.appcompat.widget.Toolbar;
 
+import java.util.ArrayList;
+
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -19,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         setContentView(R.layout.activity_main);
+
     }
 
     public void onClick(View v) {
