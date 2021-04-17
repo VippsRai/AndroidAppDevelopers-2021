@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DigiLocker</string>
+    <string name="app_name">InternshipProgram</string>
     <string name="digilocker_icon">App Icon</string>
     <string name="notification_icon">Notification Icon</string>
     <string name="home">Home</string>
@@ -15,11 +15,4 @@
     <string name="button4">Vehicle Registration</string>
     <string name="string5">Where can I use DigiLocker?</string>
     <string name="toast_msg">PAN Card servers are not responding at the moment. Please try again later.</string>
-    <string name="app_name">InternshipProgram</string>
-    <string name="name_as_on_aadhar">Name as on Aadhaar</string>
-    <string name="date_of_birth_as_on_aadhar">Date of Birth as on Aadhaar</string>
-    <string name="select_state">Select State</string>
-    <string name="enter_d.l_no">Enter D.L No.</string>
-    <string name="expires_on">Expires on</string>
-    <string name="fetch_my_driving_address">Fetch My Driving Licence</string>
-    <string name="checkbox_statement">I provide my consent to Digilocker to Fetch my driving licence based on provided details,</string>
+</resources>
