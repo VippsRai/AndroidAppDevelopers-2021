@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a262d363fdb266633738c8a7aeeb0e79/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/0ca60e4ecc213fe38197629527f23a50/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/f7209693d1dd1b2e7342f13387b8b99f/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0-alpha03] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/4b7ac61d4e1dfcdc131b8ae8a044362d/jetified-core-ktx-1.6.0-alpha03/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/791a50212195b701b469f7357594ca04/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/42d875ab3b1b3a2db9bbe74b5c0d97cf/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/24fffb8ae03d2faf3fc53b0abf24bfb3/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/25df1a310ece535c857718bbacf39700/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a01f776b506047abc9dbec240e6d6170/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/e7b527802f2386dcc9e04cbc5e9d95df/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/834c3c4f8a955538487b5d746540e672/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/53b482f4841ff822a9a9a7c37238e75a/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a41942ac65a3560dca89629efc37331c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/95ac96b026da394a17866db1d8f1f14f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/3797e2d417447a1816a5243a72c22764/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/3b6a554b331a85fec84c9a6a99a49903/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/17a623ac6cb153737e8e009327f01183/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/11be6e2689bcf94640f97e58e47f9ab3/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/56ad2c4efc66800640247178379cb43d/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/f5a78221c5d04d02b1604c2c68deb022/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/f33780031c72d23f27823ea5c185cf9b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0-alpha03] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/e1c49aae840a8504309c4bd54fb60bad/core-1.6.0-alpha03/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/2a97af85781f90bb2183e379b9236f74/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/77e419af5501bc1b9b90e997e68e5ed1/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/200949826724cc80284bace3b1f2ace4/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/d661f7f792fdcf3d62281f7fec89e857/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/51b07307b2e6a756f33c08a421553802/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/5b4674d4a7e7f7af3b2052f292ec96c1/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/0f27f38cb3b123faf28d15b256630084/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/88eb148b388f8f040f9681aa46cf0949/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/9861b674282817c5d8692c268963b0e2/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/d3fb2db7c495d091b184cb4d8370d60e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/7491c79c001af53e780964e911dd2fdd/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/71ec26ff464dfb5866b8a3148a22527d/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a262d363fdb266633738c8a7aeeb0e79/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a262d363fdb266633738c8a7aeeb0e79/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/0ca60e4ecc213fe38197629527f23a50/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/0ca60e4ecc213fe38197629527f23a50/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0-alpha03] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/e1c49aae840a8504309c4bd54fb60bad/core-1.6.0-alpha03/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0-alpha03] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/e1c49aae840a8504309c4bd54fb60bad/core-1.6.0-alpha03/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/2a97af85781f90bb2183e379b9236f74/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/2a97af85781f90bb2183e379b9236f74/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0-alpha03] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/e1c49aae840a8504309c4bd54fb60bad/core-1.6.0-alpha03/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:8:9-42
+	android:roundIcon
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:11:9-55
+activity#com.android.internshipprogram.j.DL1MainActivity
+ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:13:9-64
+	android:name
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:13:19-52
+activity#com.android.internshipprogram.egroup.AadhaarVerification
+ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:15:9-73
+	android:name
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:15:19-61
+activity#com.android.internshipprogram.MainActivity
+ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:name
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a262d363fdb266633738c8a7aeeb0e79/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a262d363fdb266633738c8a7aeeb0e79/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/0ca60e4ecc213fe38197629527f23a50/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/0ca60e4ecc213fe38197629527f23a50/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/f7209693d1dd1b2e7342f13387b8b99f/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/f7209693d1dd1b2e7342f13387b8b99f/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0-alpha03] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/4b7ac61d4e1dfcdc131b8ae8a044362d/jetified-core-ktx-1.6.0-alpha03/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0-alpha03] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/4b7ac61d4e1dfcdc131b8ae8a044362d/jetified-core-ktx-1.6.0-alpha03/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/791a50212195b701b469f7357594ca04/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/791a50212195b701b469f7357594ca04/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/42d875ab3b1b3a2db9bbe74b5c0d97cf/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/42d875ab3b1b3a2db9bbe74b5c0d97cf/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/24fffb8ae03d2faf3fc53b0abf24bfb3/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/24fffb8ae03d2faf3fc53b0abf24bfb3/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/25df1a310ece535c857718bbacf39700/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/25df1a310ece535c857718bbacf39700/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a01f776b506047abc9dbec240e6d6170/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a01f776b506047abc9dbec240e6d6170/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/e7b527802f2386dcc9e04cbc5e9d95df/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/e7b527802f2386dcc9e04cbc5e9d95df/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/834c3c4f8a955538487b5d746540e672/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/834c3c4f8a955538487b5d746540e672/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/53b482f4841ff822a9a9a7c37238e75a/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/53b482f4841ff822a9a9a7c37238e75a/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a41942ac65a3560dca89629efc37331c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/a41942ac65a3560dca89629efc37331c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/95ac96b026da394a17866db1d8f1f14f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/95ac96b026da394a17866db1d8f1f14f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/3797e2d417447a1816a5243a72c22764/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/3797e2d417447a1816a5243a72c22764/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/3b6a554b331a85fec84c9a6a99a49903/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/3b6a554b331a85fec84c9a6a99a49903/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/17a623ac6cb153737e8e009327f01183/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/17a623ac6cb153737e8e009327f01183/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/11be6e2689bcf94640f97e58e47f9ab3/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/11be6e2689bcf94640f97e58e47f9ab3/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/56ad2c4efc66800640247178379cb43d/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/56ad2c4efc66800640247178379cb43d/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/f5a78221c5d04d02b1604c2c68deb022/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/f5a78221c5d04d02b1604c2c68deb022/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/f33780031c72d23f27823ea5c185cf9b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/f33780031c72d23f27823ea5c185cf9b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0-alpha03] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/e1c49aae840a8504309c4bd54fb60bad/core-1.6.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0-alpha03] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/e1c49aae840a8504309c4bd54fb60bad/core-1.6.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/2a97af85781f90bb2183e379b9236f74/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/2a97af85781f90bb2183e379b9236f74/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/77e419af5501bc1b9b90e997e68e5ed1/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/77e419af5501bc1b9b90e997e68e5ed1/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/200949826724cc80284bace3b1f2ace4/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/200949826724cc80284bace3b1f2ace4/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/d661f7f792fdcf3d62281f7fec89e857/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/d661f7f792fdcf3d62281f7fec89e857/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/51b07307b2e6a756f33c08a421553802/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/51b07307b2e6a756f33c08a421553802/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/5b4674d4a7e7f7af3b2052f292ec96c1/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/5b4674d4a7e7f7af3b2052f292ec96c1/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/0f27f38cb3b123faf28d15b256630084/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/0f27f38cb3b123faf28d15b256630084/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/88eb148b388f8f040f9681aa46cf0949/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/88eb148b388f8f040f9681aa46cf0949/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/9861b674282817c5d8692c268963b0e2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/9861b674282817c5d8692c268963b0e2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/d3fb2db7c495d091b184cb4d8370d60e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/d3fb2db7c495d091b184cb4d8370d60e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/7491c79c001af53e780964e911dd2fdd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/7491c79c001af53e780964e911dd2fdd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/71ec26ff464dfb5866b8a3148a22527d/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/naveenchauhan/.gradle/caches/transforms-2/files-2.1/71ec26ff464dfb5866b8a3148a22527d/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+		ADDED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/src/main/AndroidManifest.xml

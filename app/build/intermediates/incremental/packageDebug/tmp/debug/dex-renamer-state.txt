@@ -1,0 +1,4 @@
+#Tue May 11 15:22:38 IST 2021
+base.0=/Users/naveenchauhan/Documents/Social Community/2021/GIT/AndroidAppDevelopers-2021/MAIN/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
