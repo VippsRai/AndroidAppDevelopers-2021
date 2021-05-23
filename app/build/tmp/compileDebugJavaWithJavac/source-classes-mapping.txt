@@ -1,7 +1,0 @@
-com/android/internshipprogram/MainActivity.java
- com.android.internshipprogram.MainActivity
- com.android.internshipprogram.MainActivity$1
- com.android.internshipprogram.MainActivity$2
- com.android.internshipprogram.MainActivity$3
-com/android/internshipprogram/BuildConfig.java
- com.android.internshipprogram.BuildConfig
